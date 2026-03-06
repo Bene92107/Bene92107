@@ -1,16 +1,65 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Bene92107/Bene92107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, ich bin Benedikt Post 👋
 
-Here are some ideas to get you started:
+**Developer · Deutsch & English · Always learning**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/badge/GitHub-BenediktPost-181717?style=for-the-badge&logo=github)](https://github.com/BenediktPost)
+
+</div>
+
+---
+
+## 🧑‍💻 Über mich / About me
+
+🇩🇪 Ich bin ein leidenschaftlicher Entwickler mit Interesse an modernen Technologien –  
+von Webentwicklung über Datenbankdesign bis hin zu KI und Containerisierung.
+
+🇬🇧 I'm a passionate developer interested in modern technologies –  
+from web development and database design to AI and containerization.
+
+- 🔭 Immer auf der Suche nach neuen Projekten / Always looking for new projects
+- 🌱 Aktuell lerne ich / Currently learning: **AI & Machine Learning**
+- 💬 Frag mich über / Ask me about: `C#` `Docker` `HTML/CSS` `SQL`
+- 📫 Erreichbar über / Reach me via: GitHub
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Languages & Web
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### ⚙️ Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🤖 Interests
+![AI](https://img.shields.io/badge/AI%20%2F%20Machine%20Learning-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Benedikt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenediktPost&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenediktPost&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*„Code is like humor. When you have to explain it, it's bad."*
+
+</div>
