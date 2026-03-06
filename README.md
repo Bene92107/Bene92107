@@ -4,7 +4,7 @@
 
 **Developer · Deutsch & English · Always learning**
 
-[![GitHub](https://img.shields.io/badge/GitHub-BenediktPost-181717?style=for-the-badge&logo=github)](https://github.com/BenediktPost)
+[![GitHub](https://img.shields.io/badge/GitHub-BenediktPost-181717?style=for-the-badge&logo=github)](https://github.com/Benedikt_Post)
 
 </div>
 
