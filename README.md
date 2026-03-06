@@ -27,10 +27,9 @@ from web development and database design to AI and containerization.
 
 ## 🛠️ Skills & Technologies
 
-### 💻 Languages & Web
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🛠️ Languages
+ 
+![My Skills|273](https://skillicons.dev/icons?i=js,python,cs,html,css)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
