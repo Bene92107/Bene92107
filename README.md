@@ -59,6 +59,6 @@ from web development and database design to AI and containerization.
 
 <div align="center">
 
-*„Code is like humor. When you have to explain it, it's bad."*
+„Code is like humor. When you have to explain it, it's bad.“ – Cory House
 
 </div>
