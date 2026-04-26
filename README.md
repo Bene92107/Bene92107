@@ -4,7 +4,7 @@
 
 **Developer · Deutsch & English · Always learning**
 
-[![GitHub](https://img.shields.io/badge/GitHub-BenediktPost-181717?style=for-the-badge&logo=github)](https://github.com/Benedikt_Post)
+[![GitHub](https://img.shields.io/badge/GitHub-BenediktPost-181717?style=for-the-badge&logo=github)](https://github.com/Bene92107)
 
 </div>
 
@@ -24,6 +24,14 @@ from web development and database design to AI and containerization.
 - 📫 Erreichbar über / Reach me via: GitHub
 
 ---
+## 🔨 Aktuelle Projekte
+
+| Projekt | Stack | Status |
+|---|---|---|
+| 💰 **FIPO** – Personal Finance PWA | React · Vite · Tailwind · Dexie.js · Recharts | 🟢 Aktiv |
+| 🚒 **Feuerwehr Neudorf** – Website | JS · HTML+CSS · Netlify | 🟡 In Arbeit |
+
+---
 
 ## 🛠️ Skills & Technologies
 
@@ -39,21 +47,15 @@ from web development and database design to AI and containerization.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ### 🤖 Interests
 ![AI](https://img.shields.io/badge/AI%20%2F%20Machine%20Learning-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Benedikt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenediktPost&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenediktPost&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
