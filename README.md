@@ -1,63 +1,90 @@
 <div align="center">
 
-# Hey, ich bin Benedikt Post 👋
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e3a8a,100:2563eb&height=220&section=header&text=Benedikt%20Post&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Header" />
 
-**Developer · Deutsch & English · Always learning**
+<a href="https://github.com/Bene92107">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=520&lines=Developer+%7C+IT-Support;Web+%C2%B7+Datenbanken+%C2%B7+Docker;Lerne+gerade+AI+%26+Machine+Learning" alt="Typing SVG" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-BenediktPost-181717?style=for-the-badge&logo=github)](https://github.com/Bene92107)
+<br/>
+
+![Standort](https://img.shields.io/badge/Bayern%20%C2%B7%20Oberpfalz-2563eb?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Sprachen](https://img.shields.io/badge/Deutsch%20%C2%B7%20English-0f172a?style=for-the-badge&logo=googletranslate&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-Bene92107-181717?style=for-the-badge&logo=github)](https://github.com/Bene92107)
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 Über mich / About me
+## 👋 Über mich
 
- I'm a passionate developer interested in modern technologies –  
-from web development and database design to AI and containerization.
+Ich bin Entwickler mit Support-Erfahrung. Ich baue Web-Anwendungen, kenne die Probleme echter Nutzer aus dem Alltag und kann technische Themen verständlich erklären.
 
-- 🔭  Always looking for new projects
-- 🌱  Currently learning: **AI & Machine Learning**
-- 💬  Ask me about: `C#` `Docker` `HTML/CSS` `SQL`
-- 📫  Reach me via GitHub
+- 💼 Aktuell im **IT-Support** tätig
+- 🎓 Ausbildung zum **Fachinformatiker für Anwendungsentwicklung**
+- 🌱 Ich lerne gerade **React**, **Astro** und **AI / Machine Learning**
 
----
-## 🔨 Aktuelle Projekte
+<br/>
 
-| Projekt | Stack | Status |
-|---|---|---|
-| 💰 **FIPO** – Personal Finance PWA | React · Vite · Tailwind · Dexie.js · Recharts | 🟢 Aktiv |
-| 🚒 **Feuerwehr Neudorf** – Website | JS · HTML+CSS · Netlify | 🟡 In Arbeit |
+## 🎯 Fokus
 
----
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🌐 Web Development</h3>
+      Moderne Oberflächen mit JavaScript, HTML/CSS und React. Schnell, sauber und mobil gedacht.
+    </td>
+    <td width="33%" valign="top">
+      <h3>🗄️ Backend & Daten</h3>
+      C#, Python und SQL. Datenbanken mit MySQL und SQLite, Deployment mit Docker.
+    </td>
+    <td width="33%" valign="top">
+      <h3>🤝 Support & Kommunikation</h3>
+      Probleme analysieren, Lösungen erklären und zwischen Technik und Nutzern vermitteln.
+    </td>
+  </tr>
+</table>
 
-## 🛠️ Skills & Technologies
+<br/>
 
-### 🛠️ Languages
- 
-![My Skills|273](https://skillicons.dev/icons?i=js,python,cs,html,css)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### ⚙️ Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-### 🤖 Interests
-![AI](https://img.shields.io/badge/AI%20%2F%20Machine%20Learning-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-
----
-
----
+## 🛠️ Tech Stack
 
 <div align="center">
 
-„Code is like humor. When you have to explain it, it's bad.“ – Cory House
+**Languages & Frameworks**<br/>
+<img src="https://skillicons.dev/icons?i=js,python,cs,html,css,react,tailwind,vite,astro&theme=dark" /><br/><br/>
+
+**Databases**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" /><br/><br/>
+
+**Tools & Workflow**<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,jira,confluence,vscode,netlify&theme=dark" />
+
+</div>
+
+<br/>
+
+## 🚀 Aktuell
+
+| | |
+|---|---|
+| 📚 **Lerne** | React · Astro · AI / Machine Learning |
+| 🔧 **Arbeite mit** | C# · Docker · SQL · Git |
+| 🔭 **Offen für** | Neue Projekte und Zusammenarbeit |
+
+<br/>
+
+## 📫 Kontakt
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Bene92107-181717?style=for-the-badge&logo=github)](https://github.com/Bene92107)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=for-the-badge&logo=linkedin)](DEIN-LINK) -->
+
+<br/>
+
+<sub>„Code is like humor. When you have to explain it, it's bad.“ – Cory House</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=100&section=footer" alt="Footer" />
 
 </div>
