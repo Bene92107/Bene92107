@@ -12,16 +12,13 @@
 
 ## 🧑‍💻 Über mich / About me
 
-🇩🇪 Ich bin ein leidenschaftlicher Entwickler mit Interesse an modernen Technologien –  
-von Webentwicklung über Datenbankdesign bis hin zu KI und Containerisierung.
-
-🇬🇧 I'm a passionate developer interested in modern technologies –  
+ I'm a passionate developer interested in modern technologies –  
 from web development and database design to AI and containerization.
 
-- 🔭 Immer auf der Suche nach neuen Projekten / Always looking for new projects
-- 🌱 Aktuell lerne ich / Currently learning: **AI & Machine Learning**
-- 💬 Frag mich über / Ask me about: `C#` `Docker` `HTML/CSS` `SQL`
-- 📫 Erreichbar über / Reach me via: GitHub
+- 🔭  Always looking for new projects
+- 🌱  Currently learning: **AI & Machine Learning**
+- 💬  Ask me about: `C#` `Docker` `HTML/CSS` `SQL`
+- 📫  Reach me via GitHub
 
 ---
 ## 🔨 Aktuelle Projekte
